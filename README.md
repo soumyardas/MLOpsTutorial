@@ -1,0 +1,1 @@
+This repository contains Python notebooks and code for MLOps tutorial.
